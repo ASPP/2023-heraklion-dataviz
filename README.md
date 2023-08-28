@@ -2,7 +2,7 @@
 
 ## Content
 
-* **[Best practice in data visualization (slides)](slides.pdf)** [(here slides with notes)](slides-notes.pdf). Slides accompanying the tutorial, together with some written notes.
+* **[Best practice in data visualization (slides)](lecture_slides_data_visualization_ASPP_2023_creta-2.pdf)**. Slides accompanying the tutorial.
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). Here we go beyond matplotlib's defaults and fine tune the details so to  make a figure *publication-ready*.
 
